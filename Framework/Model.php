@@ -50,7 +50,7 @@ abstract class Model
             $password = Configuration::get("password");
 
             // Création de la connexion
-            self::$db = new \PDO('mysql:host=localhost;dbname=u803361360_forteroche;charset=utf8', 'u803361360_bosongo', 'Babaro211', array(\PDO::ATTR_ERRMODE => \PDO::ERRMODE_EXCEPTION));
+            self::$db = new \PDO('mysql:host=localhost;dbname=;charset=utf8', '', '', array(\PDO::ATTR_ERRMODE => \PDO::ERRMODE_EXCEPTION));
         }
 
 
