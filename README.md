@@ -23,6 +23,7 @@ les pages de connexion/enregistrement des utilisateurs.
 Cours [cours de Baptiste Pesquet](https://bpesquet.developpez.com/tutoriels/php/evoluer-architecture-mvc/)
 
 ## Installation
+Composer install pour le déploiement de l'pplication 
     * : Transférer les fichiers dans le dossier web de votre serveur web (en général "www/").  
     * : Créer une base données sur votre SGDB (MySQL) et importer le fichier DB/projet5.sql afin d'y créer les différentes tables  
     * : Remplir le fichier Config/prod.ini ou Config/dev.ini selon votre environnement.  
