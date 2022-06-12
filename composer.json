@@ -1,0 +1,11 @@
+{
+	"require" : {
+	},
+	"autoload" : {
+		"psr-4" : {
+			"Bosongo\\Framework\\" : "Framework",
+			"BlogBOSONGO\\Model\\Entity\\" : "Model/Entity",
+			"BlogBOSONGO\\Model\\Manager\\" : "Model/Manager"
+		}
+	}
+}
