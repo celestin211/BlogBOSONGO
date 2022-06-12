@@ -1,6 +1,6 @@
 #BlogBOSONGO
 #BlogBOSONGO
-
+https://openclassrooms.com/fr/paths/59/projects/7/assignment
 Contexte
 Ça y est, vous avez sauté le pas ! Le monde du développement web avec PHP est à portée de main et vous avez besoin de visibilité pour pouvoir convaincre vos futurs employeurs/clients en un seul regard. Vous êtes développeur PHP, il est donc temps de montrer vos talents au travers d’un blog à vos couleurs.
 
@@ -41,3 +41,4 @@ __Etape 4__ : Votre blog est désormais fonctionnel ! Vous pouvez y créer un co
 
 Attention ! La protection de répertoires doit être réalisée sous Apache soit via httpd.conf ou soit via des fichiers [.htaccess et .htpasswd](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql/918580-proteger-un-dossier-avec-un-htaccess)  
 Veuillez à bien protéger le dossier Config/ ainsi que tout les autres dossiers contenant du code qui ne doit pas être accessible par l'utilisateur !
+                                                        https://celestinservices.fr/BlogBOSONGO/
